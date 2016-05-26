@@ -119,5 +119,4 @@ Workshop Series
 
 ### Credits
 
->>>>>>> 0207064... Adding image to Readme
 Credit to [Simon Wells](https://github.com/siwells) for part of this list.
