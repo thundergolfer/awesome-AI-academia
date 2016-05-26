@@ -3,61 +3,64 @@
 Journals
 ========
 
-* [American Dialectic](http://www.americandialectic.org/)
-* [Annals of Mathematics and Artificial Intelligence [Springer]](https://www.researchgate.net/journal/1012-2443_Annals_of_Mathematics_and_Artificial_Intelligence)
-* [Applied Communication Research, Journal of](http://www.tandfonline.com/action/aboutThisJournal?journalCode=rjac20#.Ub8g6Ot5H-k)
-* [Applied Intelligence [Springer]](https://www.researchgate.net/journal/1573-7497_Applied_Intelligence)
-* [Applied Logic, Journal of](https://www.researchgate.net/journal/1570-8683_Journal_of_Applied_Logic)
-* [Applied Non-Classical Logics, Journal of](http://www.tandfonline.com/toc/tncl20/current#.Ub8g_et5H-k)
-* [Argumentation](http://link.springer.com/journal/10503)
-* [Argumentation & Advocacy; The Journal of the American Forensic Association](http://www.americanforensics.org/AA/aa_info.html)
-* [Argument & Computation, Journal of](https://www.researchgate.net/journal/1946-2166_Argument_and_Computation)
-* Argumentation in Context, Journal of
-* [Artificial Intelligence](https://www.researchgate.net/journal/0004-3702_Artificial_Intelligence)
-* [Artificial Intelligence and Law [Springer]](https://www.researchgate.net/journal/1572-8382_Artificial_Intelligence_and_Law)
-* [Artificial Intelligence and Society [Springer]](https://www.researchgate.net/journal/0951-5666_AI_Society)
-* [Artificial Intelligence Review [Springer]](https://www.researchgate.net/journal/0269-2821_Artificial_Intelligence_Review)
-* [Artificial Intelligence Research, Journal of (JAIR)](https://www.researchgate.net/journal/1076-9757_Journal_of_Artificial_Intelligence_Research)
-* [Artificial Intelligence Tools, International Journal of](https://www.researchgate.net/journal/0218-2130_International_Journal_of_Artificial_Intelligence_Tools)
-* [Autonomous Agents and Multi-Agent Systems [Springer]](https://www.researchgate.net/journal/1387-2532_Autonomous_Agents_and_Multi-Agent_Systems)
-* [Automated Reasoning, Journal of](https://www.researchgate.net/journal/0168-7433_Journal_of_Automated_Reasoning)
-* [Cogency, Journal of Reasoning and Argumentation](http://www.cogency.udp.cl/)
-* [Communications of the ACM]https://www.researchgate.net/journal/0001-0782_Communications_of_the_ACM)
-* [Computational Intelligence & Neuroscience](https://www.researchgate.net/journal/1687-5265_Computational_Intelligence_and_Neuroscience)
-* [Computers in Human Behavior](https://www.researchgate.net/journal/0747-5632_Computers_in_Human_Behavior)
-* E-Learning & Digital Media
-* [History and Philosophy of Logic](https://www.researchgate.net/journal/0144-5340_History_and_Philosophy_of_Logic)
-* [IEEE Intelligent Systems](https://www.researchgate.net/journal/1541-1672_Intelligent_Systems_IEEE)
-* [Informal Logic](https://www.researchgate.net/journal/0824-2577_Informal_Logic)
-* [Intelligent Systems, International Journal of](https://www.researchgate.net/journal/1098-111X_International_Journal_of_Intelligent_Systems)
-* [International Review of Research in Open & Distance Learning](https://www.researchgate.net/journal/1492-3831_International_Review_of_Research_in_Open_and_Distance_Learning)
-* [Interacting With Computers](https://www.researchgate.net/journal/0953-5438_Interacting_with_Computers)
-* [Kairos: A Journal of Rhetoric, Technology, & Pedagogy](http://english.ttu.edu/kairos/)
-* Knowledge Engineering Review
-* Knowledge Based Systems
-* Law, Probability & Risk
-* Logic, Grammar and Rhetoric, Studies in
-* Logic and Computation, Journal of
-* Logique et Analyse
-* Nous
-* Philosophical Logic, Journal of
-* Philosophical Quarterly
-* Philosophical Review
-* Philosophy & Rhetoric
-* Pragmatics, Journal of
-* Present Tense: A Journal of Rhetoric in Society
-* Rhetoric Review
-* Rhetoric Society Quarterly
-* Rhetorica, A Journal of the History of Rhetoric
-* Semantics & Pragmatics
-* Speech, Quarterly Journal of
-* Symbolic Logic, Journal of
-* Synthese
+| Journal Name 												| SJR Ranking  		| ResearchGate Impact Factor |
+|-----------------------------------------------------------|-------------------|----------------------------|
+| [American Dialectic](http://www.americandialectic.org/)   | 					| 							 |
+| [Annals of Mathematics and Artificial Intelligence [Springer]](https://www.researchgate.net/journal/1012-2443_Annals_of_Mathematics_and_Artificial_Intelligence) |     |      |
+| [Applied Communication Research, Journal of](http://www.tandfonline.com/action/aboutThisJournal?journalCode=rjac20#.Ub8g6Ot5H-k) |     |      |
+| [Applied Intelligence [Springer]](https://www.researchgate.net/journal/1573-7497_Applied_Intelligence) |     |      |
+| [Applied Logic, Journal of](https://www.researchgate.net/journal/1570-8683_Journal_of_Applied_Logic) |     |      |
+| [Applied Non-Classical Logics, Journal of](http://www.tandfonline.com/toc/tncl20/current#.Ub8g_et5H-k) |     |      |
+| [Argumentation](http://link.springer.com/journal/10503) |     |      |
+| [Argumentation & Advocacy; The Journal of the American Forensic Association](http://www.americanforensics.org/AA/aa_info.html) |     |      |
+| [Argument & Computation, Journal of](https://www.researchgate.net/journal/1946-2166_Argument_and_Computation) |     |      |
+| Argumentation in Context, Journal of |     |      |
+| [Artificial Intelligence](https://www.researchgate.net/journal/0004-3702_Artificial_Intelligence) |     |      |
+| [Artificial Intelligence and Law [Springer]](https://www.researchgate.net/journal/1572-8382_Artificial_Intelligence_and_Law) |     |      |
+| [Artificial Intelligence and Society [Springer]](https://www.researchgate.net/journal/0951-5666_AI_Society) |     |      |
+| [Artificial Intelligence Review [Springer]](https://www.researchgate.net/journal/0269-2821_Artificial_Intelligence_Review) |     |      |
+| [Artificial Intelligence Research, Journal of (JAIR)](https://www.researchgate.net/journal/1076-9757_Journal_of_Artificial_Intelligence_Research) |     |      |
+| [Artificial Intelligence Tools, International Journal of](https://www.researchgate.net/journal/0218-2130_International_Journal_of_Artificial_Intelligence_Tools) |     |      |
+| [Autonomous Agents and Multi-Agent Systems [Springer]](https://www.researchgate.net/journal/1387-2532_Autonomous_Agents_and_Multi-Agent_Systems) |     |      |
+| [Automated Reasoning, Journal of](https://www.researchgate.net/journal/0168-7433_Journal_of_Automated_Reasoning) |     |      |
+| [Cogency, Journal of Reasoning and Argumentation](http://www.cogency.udp.cl/) |     |      |
+| [Communications of the ACM]https://www.researchgate.net/journal/0001-0782_Communications_of_the_ACM) |     |      |
+| [Computational Intelligence & Neuroscience](https://www.researchgate.net/journal/1687-5265_Computational_Intelligence_and_Neuroscience) |     |      |
+| [Computers in Human Behavior](https://www.researchgate.net/journal/0747-5632_Computers_in_Human_Behavior) |     |      |
+| E-Learning & Digital Media |     |      |
+| [History and Philosophy of Logic](https://www.researchgate.net/journal/0144-5340_History_and_Philosophy_of_Logic) |     |      |
+| [IEEE Intelligent Systems](https://www.researchgate.net/journal/1541-1672_Intelligent_Systems_IEEE) |     |      |
+| [Informal Logic](https://www.researchgate.net/journal/0824-2577_Informal_Logic) |     |      |
+| [Intelligent Systems, International Journal of](https://www.researchgate.net/journal/1098-111X_International_Journal_of_Intelligent_Systems) |     |      |
+| [International Review of Research in Open & Distance Learning](https://www.researchgate.net/journal/1492-3831_International_Review_of_Research_in_Open_and_Distance_Learning) | | |
+| [Interacting With Computers](https://www.researchgate.net/journal/0953-5438_Interacting_with_Computers) |     |      |
+| [Kairos: A Journal of Rhetoric, Technology, & Pedagogy](http://english.ttu.edu/kairos/) |     |      |
+| Knowledge Engineering Review |     |      |
+| Knowledge Based Systems |     |      |
+| Law, Probability & Risk |     |      |
+| Logic, Grammar and Rhetoric, Studies in |     |      |
+| Logic and Computation, Journal of |     |      |
+| Logique et Analyse |     |      |
+| Nous |     |      |
+| Philosophical Logic, Journal of |     |      |
+| Philosophical Quarterly |     |      |
+| Philosophical Review |     |      |
+| Philosophy & Rhetoric |     |      |
+| Pragmatics, Journal of |     |      |
+| Present Tense: A Journal of Rhetoric in Society |     |      |
+| Rhetoric Review |     |      |
+| Rhetoric Society Quarterly |     |      |
+| Rhetorica, A Journal of the History of Rhetoric |     |      |
+| Semantics & Pragmatics |     |      |
+| Speech, Quarterly Journal of |     |      |
+| Symbolic Logic, Journal of |     |      |
+| Synthese |     |      |
 
 Conferences
 ===========
 
 * [AAAI Conferences:](http://www.aaai.org/Conferences/conferences.php)
+
 ⋅⋅*AAAI Conference on Artificial Intelligence
 ⋅⋅*Innovative Applications of Artificial Intelligence Conference (IAAI)
 ⋅⋅*Artificial Intelligence for Interaction Digital Entertainment Conference (AIIDE)
