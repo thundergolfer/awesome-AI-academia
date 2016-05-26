@@ -6,28 +6,30 @@ Journals
 | Journal Name 												| SJR Ranking  		| ResearchGate Impact Factor |
 |-----------------------------------------------------------|-------------------|----------------------------|
 | [American Dialectic](http://www.americandialectic.org/)   | 					| 							 |
-| [Annals of Mathematics and Artificial Intelligence [Springer]](https://www.researchgate.net/journal/1012-2443_Annals_of_Mathematics_and_Artificial_Intelligence) |     |      |
+| [Annals of Mathematics and Artificial Intelligence [Springer]](https://www.researchgate.net/journal/1012-2443_Annals_of_Mathematics_and_Artificial_Intelligence) | 0.891 |      |
 | [Applied Communication Research, Journal of](http://www.tandfonline.com/action/aboutThisJournal?journalCode=rjac20#.Ub8g6Ot5H-k) |     |      |
-| [Applied Intelligence [Springer]](https://www.researchgate.net/journal/1573-7497_Applied_Intelligence) |     |      |
+| [Applied Intelligence [Springer]](https://www.researchgate.net/journal/1573-7497_Applied_Intelligence) | 1.474  |      |
 | [Applied Logic, Journal of](https://www.researchgate.net/journal/1570-8683_Journal_of_Applied_Logic) |     |      |
 | [Applied Non-Classical Logics, Journal of](http://www.tandfonline.com/toc/tncl20/current#.Ub8g_et5H-k) |     |      |
 | [Argumentation](http://link.springer.com/journal/10503) |     |      |
 | [Argumentation & Advocacy; The Journal of the American Forensic Association](http://www.americanforensics.org/AA/aa_info.html) |     |      |
 | [Argument & Computation, Journal of](https://www.researchgate.net/journal/1946-2166_Argument_and_Computation) |     |      |
 | Argumentation in Context, Journal of |     |      |
-| [Artificial Intelligence](https://www.researchgate.net/journal/0004-3702_Artificial_Intelligence) |     |      |
-| [Artificial Intelligence and Law [Springer]](https://www.researchgate.net/journal/1572-8382_Artificial_Intelligence_and_Law) |     |      |
-| [Artificial Intelligence and Society [Springer]](https://www.researchgate.net/journal/0951-5666_AI_Society) |     |      |
-| [Artificial Intelligence Review [Springer]](https://www.researchgate.net/journal/0269-2821_Artificial_Intelligence_Review) |     |      |
-| [Artificial Intelligence Research, Journal of (JAIR)](https://www.researchgate.net/journal/1076-9757_Journal_of_Artificial_Intelligence_Research) |     |      |
+| [Artificial Intelligence](https://www.researchgate.net/journal/0004-3702_Artificial_Intelligence) | 3.263 (Rank 10) |      |
+| [Artificial Intelligence and Law [Springer]](https://www.researchgate.net/journal/1572-8382_Artificial_Intelligence_and_Law) | 0.48    |      |
+| [Artificial Intelligence and Society [Springer]](https://www.researchgate.net/journal/0951-5666_AI_Society) | 0.179 |      |
+| [Artificial Intelligence Review [Springer]](https://www.researchgate.net/journal/0269-2821_Artificial_Intelligence_Review) | 1.161    |      |
+| [Artificial Intelligence Research, Journal of (JAIR)](https://www.researchgate.net/journal/1076-9757_Journal_of_Artificial_Intelligence_Research) | 1.725    |      |
 | [Artificial Intelligence Tools, International Journal of](https://www.researchgate.net/journal/0218-2130_International_Journal_of_Artificial_Intelligence_Tools) |     |      |
-| [Autonomous Agents and Multi-Agent Systems [Springer]](https://www.researchgate.net/journal/1387-2532_Autonomous_Agents_and_Multi-Agent_Systems) |     |      |
-| [Automated Reasoning, Journal of](https://www.researchgate.net/journal/0168-7433_Journal_of_Automated_Reasoning) |     |      |
+| Association for Computing Machinery, Journal of | 4.574 (Rank 7) |   |
+| [Autonomous Agents and Multi-Agent Systems [Springer]](https://www.researchgate.net/journal/1387-2532_Autonomous_Agents_and_Multi-Agent_Systems) | 1.525 |      |
+| [Automated Reasoning, Journal of](https://www.researchgate.net/journal/0168-7433_Journal_of_Automated_Reasoning) | 1.526    |      |
 | [Cogency, Journal of Reasoning and Argumentation](http://www.cogency.udp.cl/) |     |      |
-| [Communications of the ACM]https://www.researchgate.net/journal/0001-0782_Communications_of_the_ACM) |     |      |
-| [Computational Intelligence & Neuroscience](https://www.researchgate.net/journal/1687-5265_Computational_Intelligence_and_Neuroscience) |     |      |
+| [Communications of the ACM](https://www.researchgate.net/journal/0001-0782_Communications_of_the_ACM) |     |      |
+| [Computational Intelligence & Neuroscience](https://www.researchgate.net/journal/1687-5265_Computational_Intelligence_and_Neuroscience) | 0.841  |      |
 | [Computers in Human Behavior](https://www.researchgate.net/journal/0747-5632_Computers_in_Human_Behavior) |     |      |
 | E-Learning & Digital Media |     |      |
+| Foundations and Trends in Machine Learning | 9.855 (Rank 1) |   |
 | [History and Philosophy of Logic](https://www.researchgate.net/journal/0144-5340_History_and_Philosophy_of_Logic) |     |      |
 | [IEEE Intelligent Systems](https://www.researchgate.net/journal/1541-1672_Intelligent_Systems_IEEE) |     |      |
 | [Informal Logic](https://www.researchgate.net/journal/0824-2577_Informal_Logic) |     |      |
@@ -41,6 +43,7 @@ Journals
 | Logic, Grammar and Rhetoric, Studies in |     |      |
 | Logic and Computation, Journal of |     |      |
 | Logique et Analyse |     |      |
+| Machine Learning Research, Journal of | 2.929  |          |
 | Nous |     |      |
 | Philosophical Logic, Journal of |     |      |
 | Philosophical Quarterly |     |      |
