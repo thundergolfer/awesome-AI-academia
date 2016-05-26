@@ -1,7 +1,23 @@
 # Awesome Artificial Intelligence Academia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Journals
-========
+About
+=====
+
+A curated resource of everything AI in the academic world. Currently this has a bias towards my own interest in the crossection of AI and Argumentation, though I will soon separate related but distinct content into catergories.
+
+Contributions welcome!
+
+# Contents
+
+1. [People](#people)
+2. [Journals](#journals)
+3. [Conferences](#conferences) 
+
+# People
+
+Coming Soon!
+
+# Journals
 
 | Journal Name 												| SJR Ranking  		| ResearchGate Impact Factor |
 |-----------------------------------------------------------|-------------------|----------------------------|
@@ -59,8 +75,7 @@ Journals
 | Symbolic Logic, Journal of |     |      |
 | Synthese |     |      |
 
-Conferences
-===========
+# Conferences
 
 * [AAAI Conferences:](http://www.aaai.org/Conferences/conferences.php)
 
