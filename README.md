@@ -58,10 +58,10 @@ Conferences
 ===========
 
 * [AAAI Conferences:](http://www.aaai.org/Conferences/conferences.php)
-** AAAI Conference on Artificial Intelligence
-** Innovative Applications of Artificial Intelligence Conference (IAAI)
-** Artificial Intelligence for Interaction Digital Entertainment Conference (AIIDE)
-** International Conference on Weblogs & Social Media
+..*AAAI Conference on Artificial Intelligence
+..*Innovative Applications of Artificial Intelligence Conference (IAAI)
+..*Artificial Intelligence for Interaction Digital Entertainment Conference (AIIDE)
+..*International Conference on Weblogs & Social Media
 * [AAMAS - Autonomous Agents & MultiAgent Systems](http://sis.smu.edu.sg/aamas2016)
 * [AJCAI - Australasian Joint Conference on Artificial Intelligence](http://ai2013.otago.ac.nz/)
 * [BCS-Human Computer Interaction](http://hci2016.bcs.org/)
