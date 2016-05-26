@@ -1,5 +1,7 @@
 # Awesome Artificial Intelligence Academia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![AI](https://github.com/thundergolfer/awesome-AI-academia/images/academia-ai.jpg)
+
 About
 =====
 
@@ -117,4 +119,5 @@ Workshop Series
 
 ### Credits
 
+>>>>>>> 0207064... Adding image to Readme
 Credit to [Simon Wells](https://github.com/siwells) for part of this list.
