@@ -12,8 +12,9 @@ Contributions welcome!
 # Contents
 
 1. [People](#people)
-2. [Journals](#journals)
-3. [Conferences](#conferences) 
+2. [Seminal Papers](#papers)
+3. [Journals](#journals)
+4. [Conferences](#conferences) 
 
 # People
 
@@ -22,6 +23,10 @@ Contributions welcome!
 * [Github](https://github.com/norvig)
 * Notable Work 
   * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+
+# Seminal Papers
+Academic papers that strongly influenced the feild of Artificial Intelligence. See [Papers-Extended](/papers-extended.md) for a larger list of important A.I papers.
+
 
 
 # Journals
