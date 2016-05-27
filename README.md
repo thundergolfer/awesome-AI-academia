@@ -115,6 +115,13 @@ Workshop Series
 * [TAFA - Theory and Applications of Formal Argument](http://homepages.abdn.ac.uk/n.oren/pages/TAFA-15/)
 * [WoLLIC - Workshop on Language, Logic, Information and Computation](http://wollic.org/wollic2016/)
 
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Thundergolfer](http://jonathonbelotti.com) has waived all copyright and related or neighboring rights to this work.
+
 ### Credits
 
 Credit to [Simon Wells](https://github.com/siwells) for part of this list.
