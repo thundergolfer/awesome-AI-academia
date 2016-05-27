@@ -17,7 +17,12 @@ Contributions welcome!
 
 # People
 
-Coming Soon!
+**Norvig, Peter** - Director of Research at [Google](https://en.wikipedia.org/wiki/Google)
+* [Website](www.norvig.com)
+* [Github](https://github.com/norvig)
+* Notable Work 
+  * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+
 
 # Journals
 
