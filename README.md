@@ -24,6 +24,11 @@ Contributions welcome!
 * Notable Work 
   * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
+**Yann LeCun** - Director of AI Research at [Facebook](https://en.wikipedia.org/wiki/Facebook)
+* [Website](http://yann.lecun.com/)
+* Notable Work 
+  * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
 # Seminal Papers
 Academic papers that strongly influenced the feild of Artificial Intelligence. See [Papers-Extended](/papers-extended.md) for a larger list of important A.I papers.
 
