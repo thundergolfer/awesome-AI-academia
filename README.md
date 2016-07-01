@@ -15,6 +15,7 @@ Contributions welcome!
 2. [Seminal Papers](#papers)
 3. [Journals](#journals)
 4. [Conferences](#conferences) 
+5. [Workshops](#workshop series)
 
 # People
 
@@ -31,6 +32,8 @@ Contributions welcome!
 
 # Seminal Papers
 Academic papers that strongly influenced the feild of Artificial Intelligence. See [Papers-Extended](/papers-extended.md) for a larger list of important A.I papers.
+
+* [Best Paper Awards In Computer Science](http://jeffhuang.com/best_paper_awards.html) - "Best paper awards from top-tier conferences"
 
 
 
