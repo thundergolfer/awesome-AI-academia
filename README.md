@@ -16,6 +16,7 @@ Contributions welcome!
 3. [Journals](#journals)
 4. [Conferences](#conferences) 
 5. [Workshops](#workshop series)
+6. [Other Useful Links](#other-useful-links)
 
 # People
 
@@ -135,6 +136,10 @@ Workshop Series
 * [TAFA - Theory and Applications of Formal Argument](http://homepages.abdn.ac.uk/n.oren/pages/TAFA-15/)
 * [WoLLIC - Workshop on Language, Logic, Information and Computation](http://wollic.org/wollic2016/)
 
+Other Useful Links
+==================
+
+* [How to Read an Computer Science research paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 
 ## License
 
