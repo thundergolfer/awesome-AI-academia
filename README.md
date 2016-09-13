@@ -14,22 +14,31 @@ Contributions welcome!
 1. [People](#people)
 2. [Seminal Papers](#papers)
 3. [Journals](#journals)
-4. [Conferences](#conferences) 
+4. [Conferences](#conferences)
 5. [Workshops](#workshop series)
-6. [Other Useful Links](#other-useful-links)
+6. [Schools And Education](#schools-and-education)
+7. [Other Useful Links](#other-useful-links)
 
 # People
 
 **Norvig, Peter** - Director of Research at [Google](https://en.wikipedia.org/wiki/Google)
 * [Website](www.norvig.com)
 * [Github](https://github.com/norvig)
-* Notable Work 
+* Notable Work
   * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
 **Yann LeCun** - Director of AI Research at [Facebook](https://en.wikipedia.org/wiki/Facebook)
 * [Website](http://yann.lecun.com/)
-* Notable Work 
+* Notable Work
   * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+**Andrew Ng** - Chief Scientist at [Baidu Research](http://research.baidu.com/)
+* [Website](http://www.andrewng.org/)
+
+**Demis Hassabis** - Co-founder and CEO of [Google Deepmind](https://deepmind.com/)
+* [Website](https://demishassabis.com)
+
+**Full List In [people-extended](/people-extended.md)**
 
 # Seminal Papers
 Academic papers that strongly influenced the feild of Artificial Intelligence. See [Papers-Extended](/papers-extended.md) for a larger list of important A.I papers.
@@ -135,6 +144,13 @@ Workshop Series
 * [CMNA - Computational Models of Natural Argument](http://cmna.info/CMNA16/)
 * [TAFA - Theory and Applications of Formal Argument](http://homepages.abdn.ac.uk/n.oren/pages/TAFA-15/)
 * [WoLLIC - Workshop on Language, Logic, Information and Computation](http://wollic.org/wollic2016/)
+
+Schools And Education
+=====================
+* [Best Universities/Colleges for Computer Science and Info. Systems](https://www.theguardian.com/higher-education-network/2016/mar/22/qs-world-university-rankings-2016-computer-science-and-information-systems)
+* [US.News GradRank Best US Colleges for Artificial Intelligence](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings)
+* [Quora - What is the best school for a PHD in AI?](https://www.quora.com/What-are-the-best-ten-schools-for-a-PhD-in-Artificial-Intelligence-and-Machine-Learning)
+
 
 Other Useful Links
 ==================
