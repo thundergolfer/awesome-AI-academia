@@ -129,6 +129,7 @@ Academic papers that strongly influenced the feild of Artificial Intelligence. S
 * [JURIX - International Conference on Legal Knowledge and Information Systems](http://jurix.nl/)
 * [LPAR - Logic for Programming, Artificial Intelligence and Reasoning](http://www.lpar.net/)
 * [MICAI - Mexican International Conference on Artificial Intelligence](http://www.micai.org/)
+* [NIPS - Neural Information Processing Systems](https://nips.cc/)
 * [OSSA - Ontario Society for the Study of Argumentation](http://scholar.uwindsor.ca/ossaarchive/)
 * [PERSUASIVE - International Conference on Persuasive Technology](http://persuasive2016.org/)
 * [PRIMA - International Conference on Principles and Practice of Multi-Agent Systems](http://prima2016.di.unito.it/)
