@@ -151,6 +151,13 @@ Schools And Education
 * [Quora - What is the best school for a PHD in AI?](https://www.quora.com/What-are-the-best-ten-schools-for-a-PhD-in-Artificial-Intelligence-and-Machine-Learning)
 
 
+Open-Source Research Utilities 
+==================
+* [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver)
+* [thundergolfer/arXie-bot](https://github.com/thundergolfer/arXie-Bot) [Contributors Needed]
+* [scirate/scirate](https://github.com/scirate/scirate)
+
+
 Other Useful Links
 ==================
 
