@@ -9,7 +9,7 @@ A curated resource of everything AI in the academic world. Currently this has a 
 
 Contributions welcome!
 
-# Contents
+## Contents
 
 1. [People](#people)
 2. [Seminal Papers](#papers)
@@ -19,35 +19,34 @@ Contributions welcome!
 6. [Schools And Education](#schools-and-education)
 7. [Other Useful Links](#other-useful-links)
 
-# People
+## People
 
-**Norvig, Peter** - Director of Research at [Google](https://en.wikipedia.org/wiki/Google)
-* [Website](www.norvig.com)
-* [Github](https://github.com/norvig)
-* Notable Work
-  * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+> **Full List In [people-extended](/people-extended.md)**, [source](http://www.sciencemag.org/sites/default/files/documents/Top-50_authors.pdf)
 
-**Yann LeCun** - Director of AI Research at [Facebook](https://en.wikipedia.org/wiki/Facebook)
-* [Website](http://yann.lecun.com/)
-* Notable Work
-  * [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+| Researcher                          | Known For...                                                          |
+|-------------------------------------|-----------------------------------------------------------------------|
+| [Michael I. Jordon](https://www.semanticscholar.org/author/Michael-I-Jordan/1694621) | [Latent Dirichlet (LDA) Allocation](https://pdfs.semanticscholar.org/6045/fc52a09fb54e6ddc3d46d792461bb2247cde.pdf) |
+| [Andrew Ng](https://www.semanticscholar.org/author/Andrew-Y-Ng/1701538) | [LDA](https://pdfs.semanticscholar.org/6045/fc52a09fb54e6ddc3d46d792461bb2247cde.pdf), [Spectral Clustering](https://pdfs.semanticscholar.org/e0d2/861a9022667a93a8a0573d44f238f7c3a027.pdf) |
+| [Andrew Zisserman](https://www.semanticscholar.org/author/Andrew-Zisserman/1688869) | [CNNs for large-scale image classification](https://arxiv.org/pdf/1409.1556.pdf) |
+| [Christopher D. Manning](https://www.semanticscholar.org/author/Christopher-D-Manning/1812612) | Information Retrieval, NLP |
+| [Jitendra Malik](https://www.semanticscholar.org/author/Jitendra-Malik/1689212) | [Image segmentation](https://pdfs.semanticscholar.org/d58c/935da27d873e815de1b31245e711d8a6d1d3.pdf) |
+| [Geoff Hinton](https://www.semanticscholar.org/author/Geoffrey-E-Hinton/1695689) | [Dropout](https://www.semanticscholar.org/paper/Dropout-a-simple-way-to-prevent-neural-networks-Srivastava-Hinton/6c8b30f63f265c32e26d999aa1fef5286b8308ad) |
+| [Scott Shenker](https://www.semanticscholar.org/author/Scott-Shenker/1753148) | [Content-addressable networks](https://pdfs.semanticscholar.org/b3fb/541628ecff78b4acd05e93dc268324f17799.pdf) |
+| [Bernhard Schölkopf](https://www.semanticscholar.org/author/Bernhard-Sch%C3%B6lkopf/1707625) | PCA Techniques |
+| [Judea Pearl](https://www.semanticscholar.org/author/Judea-Pearl/1735413) | [Causality Models](https://pdfs.semanticscholar.org/6482/4c69c9445d7362fc1939958337e059d085ab.pdf) |
+| [Jeffrey Dean](https://www.semanticscholar.org/author/Jeffrey-F-D-Dean/1796515) | Tensorflow |
+| [Yoshua Bengio](https://www.semanticscholar.org/author/Yoshua-Bengio/1751762) | [Neural translation](https://pdfs.semanticscholar.org/8d43/4a90b68fd0f2592d6fe7acf67d232123ad67.pdf) |
 
-**Andrew Ng** - Chief Scientist at [Baidu Research](http://research.baidu.com/)
-* [Website](http://www.andrewng.org/)
+> **Full List In [people-extended](/people-extended.md)**
 
-**Demis Hassabis** - Co-founder and CEO of [Google Deepmind](https://deepmind.com/)
-* [Website](https://demishassabis.com)
-
-**Full List In [people-extended](/people-extended.md)**
-
-# Seminal Papers
+## Seminal Papers
 Academic papers that strongly influenced the feild of Artificial Intelligence. See [Papers-Extended](/papers-extended.md) for a larger list of important A.I papers.
 
 * [Best Paper Awards In Computer Science](http://jeffhuang.com/best_paper_awards.html) - "Best paper awards from top-tier conferences"
 
 
 
-# Journals
+## Journals
 
 | Journal Name 												| SJR Ranking  		| ResearchGate Impact Factor |
 |-----------------------------------------------------------|-------------------|----------------------------|
@@ -105,7 +104,7 @@ Academic papers that strongly influenced the feild of Artificial Intelligence. S
 | Symbolic Logic, Journal of |     |      |
 | Synthese |     |      |
 
-# Conferences
+## Conferences
 
 * [AAAI Conferences:](http://www.aaai.org/Conferences/conferences.php)
 * AAAI Conference on Artificial Intelligence
@@ -136,8 +135,7 @@ Academic papers that strongly influenced the feild of Artificial Intelligence. S
 * [UbiComp - UbiComp, the ACM International Joint Conference on Pervasive and Ubiquitous Computing](http://ubicomp.org/ubicomp2016/)
 * [UMAP - User Modeling, Adaptation and Personalization](http://www.um.org/umap2016/)
 
-Workshop Series
-===============
+## Workshop Series
 
 * [ArgMAS - Argumentation in MultiAgent Systems](http://www.mit.edu/~irahwan/argmas/)
 * [CLIMA - Computational Logic in MultiAgent Systems](http://www-sop.inria.fr/members/Serena.Villata/climaXV.html)
@@ -145,26 +143,25 @@ Workshop Series
 * [TAFA - Theory and Applications of Formal Argument](http://homepages.abdn.ac.uk/n.oren/pages/TAFA-15/)
 * [WoLLIC - Workshop on Language, Logic, Information and Computation](http://wollic.org/wollic2016/)
 
-Schools And Education
-=====================
+## Schools And Education
 * [Best Universities/Colleges for Computer Science and Info. Systems](https://www.theguardian.com/higher-education-network/2016/mar/22/qs-world-university-rankings-2016-computer-science-and-information-systems)
 * [US.News GradRank Best US Colleges for Artificial Intelligence](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings)
 * [Quora - What is the best school for a PHD in AI?](https://www.quora.com/What-are-the-best-ten-schools-for-a-PhD-in-Artificial-Intelligence-and-Machine-Learning)
 
 
-Open-Source Research Utilities 
-==================
+## Open-Source Research Utilities
+
 * [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver)
 * [thundergolfer/arXie-bot](https://github.com/thundergolfer/arXie-Bot) [Contributors Needed]
 * [scirate/scirate](https://github.com/scirate/scirate)
 
 
-Other Useful Links
-==================
+## Other Useful Links
+
 
 * [How to Read an Computer Science research paper](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 
-## License
+### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
