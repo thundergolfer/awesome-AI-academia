@@ -73,7 +73,8 @@ Academic papers that strongly influenced the feild of Artificial Intelligence. S
 | [Communications of the ACM](https://www.researchgate.net/journal/0001-0782_Communications_of_the_ACM) |     |      |
 | [Computational Intelligence & Neuroscience](https://www.researchgate.net/journal/1687-5265_Computational_Intelligence_and_Neuroscience) | 0.841  |      |
 | [Computers in Human Behavior](https://www.researchgate.net/journal/0747-5632_Computers_in_Human_Behavior) |     |      |
-| E-Learning & Digital Media |     |      |
+| [Distill.Pub](http://distill.pub/) |    |    |
+| E-Learning & Digital Media |     |      |
 | Foundations and Trends in Machine Learning | 9.855 (Rank 1) |   |
 | [History and Philosophy of Logic](https://www.researchgate.net/journal/0144-5340_History_and_Philosophy_of_Logic) |     |      |
 | [IEEE Intelligent Systems](https://www.researchgate.net/journal/1541-1672_Intelligent_Systems_IEEE) |     |      |
