@@ -15,7 +15,7 @@ Contributions welcome!
 2. [Seminal Papers](#papers)
 3. [Journals](#journals)
 4. [Conferences](#conferences)
-5. [Workshops](#workshop series)
+5. [Workshops](#workshop-series)
 6. [Schools And Education](#schools-and-education)
 7. [Other Useful Links](#other-useful-links)
 
