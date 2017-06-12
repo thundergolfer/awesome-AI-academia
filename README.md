@@ -122,6 +122,8 @@ Academic papers that strongly influenced the feild of Artificial Intelligence. S
 * [ECAI - European Conference on AI](http://www.ecai2016.org/)
 * [GROUP - ACM Conference on Supporting Groupwork](http://oldwww.acm.org/conferences/group/conferences/group16/)
 * [ICAIL - International Conference on AI and Law](http://sites.sandiego.edu/icail/)
+* [ICML - International Conference on Machine Learning](https://2017.icml.cc/)
+* [ICLR - International Conference on Learning Representations](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)
 * [IJCAI - International Joint Conference on Artificial Intelligence](http://ijcai.org/)
 * [IJCAR - International Joint Conference on Automated Reasoning](http://www.ijcar-2016.info/)
 * [ISSA - Information Systems Security Association](https://www.issa.org/?issaconf_home)
